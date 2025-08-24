@@ -32,3 +32,17 @@ while not at_goal():
 #         turn_left()
 #     elif front_is_clear():
 #         moving()
+
+
+# def turn_right():
+#     for i in range(3):
+#         turn_left()
+ 
+# while not at_goal():
+#     if front_is_clear():
+#         move()
+#     if wall_in_front() and wall_on_right():
+#         turn_left()
+#     if right_is_clear():
+#         turn_right()
+        
