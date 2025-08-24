@@ -17,6 +17,7 @@ while not at_goal():
 # WARNING: Do not change this comment.
 # Library Code is below.
 ################################################################
+# Solution 1
 # def turn_right():
 #     for i in range(3):
 #         turn_left()
@@ -33,7 +34,7 @@ while not at_goal():
 #     elif front_is_clear():
 #         moving()
 
-
+# Solution 2
 # def turn_right():
 #     for i in range(3):
 #         turn_left()
